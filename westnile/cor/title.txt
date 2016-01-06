@@ -1,0 +1,12 @@
+Species
+Tmax
+Depart
+Heat
+Sunset
+CodeSum
+PrecipTotal
+StnPressure
+SeaLevel
+ResultSpeed
+ResultDir
+spray
